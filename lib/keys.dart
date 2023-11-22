@@ -1,0 +1,2 @@
+String anon = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ6Z3Nka3Riem1iemJrYm9ndHB1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTUxMTY5MTcsImV4cCI6MjAxMDY5MjkxN30.FBEIa4NEwuVtPVI8zgqtWPhl61ooc7yuopgefqsMuig";
+String link = "https://bzgsdktbzmbzbkbogtpu.supabase.co";

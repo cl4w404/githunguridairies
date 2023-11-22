@@ -1,0 +1,3 @@
+String kConsumerKey = "re9RW2dget5VbzkAHzPhi0oNkKb4kIlU";
+String kConsumerSecret = "Cb5OHnjcPntfNYT9";
+String securityCredentials ="XTkiwfzxY0xBr18OPZdIiJA42Paj9luSmtHrNte/zdUO/mf/tiTkXe2tw70StwY89EBIcl+C/rOpGdxxOALOnaWvu5bBUPF+M0rIuv2dskCdYcAjgEqiRJbDN8Kc5Gap4TME7g31ns8dkoCvHiBRLbgoTfU7TDYIwyScLrsy37FpXIJRTBEva0yOa+PnNYfQZcLgjhfba3kMdV0DaT9Ch3rYOYu5/qgPr8+sH9gdvp/5olQ0B8nbYWl2yLNqqAGBBqPhJYxZsgj8Gv1VgaGBsxZUrgHkm91HzHjiG/JPdgWG9Grcf4oLlrasZOT6V30JDAlWwEnY87h2U48IHYj/Pg==";
